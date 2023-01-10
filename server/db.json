@@ -1,0 +1,320 @@
+{
+  "contacts": [
+    {
+      "id": "1",
+      "name": "José Panero Otero",
+      "photoURL": "/assets/img/contacts/contact-foto-1.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "1",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "2",
+      "name": "Ana Isabel Lucena Perera",
+      "photoURL": "/assets/img/contacts/contact-foto-2.png",
+      "mobile": "666 123 000",
+      "phone": "12 234 56 90",
+      "email": "anaisabel@ejemplo.com",
+      "groupId": "3",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Santo 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "3",
+      "name": "Monserrat Marques",
+      "photoURL": "/assets/img/contacts/contact-foto-3.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "4",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "4",
+      "name": "Juan Gabriel Garriga",
+      "photoURL": "/assets/img/contacts/contact-foto-4.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "3",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "5",
+      "name": "Myriam Carrion",
+      "photoURL": "/assets/img/contacts/contact-foto-5.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "4",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "6",
+      "name": "Silvia Benito",
+      "photoURL": "/assets/img/contacts/contact-foto-6.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "5",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "7",
+      "name": "Cristina Maria Martinez",
+      "photoURL": "/assets/img/contacts/contact-foto-7.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "5",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "8",
+      "name": "Maria Soledad Matos",
+      "photoURL": "/assets/img/contacts/contact-foto-8.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "6",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "9",
+      "name": "Diego Lamas",
+      "photoURL": "/assets/img/contacts/contact-foto-9.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "6",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "10",
+      "name": "Jesus Manuel Arias",
+      "photoURL": "/assets/img/contacts/contact-foto-10.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "6",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "11",
+      "name": "Pedro Jesus Palma",
+      "photoURL": "/assets/img/contacts/contact-foto-11.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "7",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "12",
+      "name": "Maria Concepcion Losada",
+      "photoURL": "/assets/img/contacts/contact-foto-12.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "7",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "13",
+      "name": "Ander Bermudez",
+      "photoURL": "/assets/img/contacts/contact-foto-13.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "1",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "14",
+      "name": "Julian Gracia",
+      "photoURL": "/assets/img/contacts/contact-foto-14.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "2",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "15",
+      "name": "Camila Simon",
+      "photoURL": "/assets/img/contacts/contact-foto-15.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "2",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "16",
+      "name": "Ainhoa Recio",
+      "photoURL": "/assets/img/contacts/contact-foto-16.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "3",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "17",
+      "name": "Macarena Ferrer",
+      "photoURL": "/assets/img/contacts/contact-foto-17.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "3",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "18",
+      "name": "Aurelio Barroso",
+      "photoURL": "/assets/img/contacts/contact-foto-18.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "4",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "19",
+      "name": "Juan Fernando Gomis",
+      "photoURL": "/assets/img/contacts/contact-foto-19.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "4",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "20",
+      "name": "Amador Lobato",
+      "photoURL": "/assets/img/contacts/contact-foto-20.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "5",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "21",
+      "name": "Pelayo Figueroa",
+      "photoURL": "/assets/img/contacts/contact-foto-21.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "5",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    },
+    {
+      "id": "22",
+      "name": "Isabel Maria Alba",
+      "photoURL": "/assets/img/contacts/contact-foto-22.png",
+      "mobile": "666 123 456",
+      "phone": "12 234 56 78",
+      "email": "correo@ejemplo.com",
+      "groupId": "1",
+      "address": "C/ Grande nº 1 1º Barcelona, 08800",
+      "company": "TEST, Inc.",
+      "importantDate": "Cumpleaños 27/07/1972",
+      "webSite": "https://www.my-blog.com"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "No asignado"
+    },
+    {
+      "id": "2",
+      "name": "Contactos de emergencia"
+    },
+    {
+      "id": "3",
+      "name": "Familia"
+    },
+    {
+      "id": "4",
+      "name": "Trabajo"
+    },
+    {
+      "id": "5",
+      "name": "Amigos"
+    },
+    {
+      "id": "6",
+      "name": "Otros"
+    },
+    {
+      "id": "7",
+      "name": "Servicios"
+    }
+  ]
+}

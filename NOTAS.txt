@@ -1,0 +1,30 @@
+*** SEGUIR EN EL MINUTO 2:06:54 DEL VÍDEO => https://www.youtube.com/watch?v=ZfqnUm7w6ig **
+
+*** ESTE PROYECTO ES DEL CANAL 'UiBrains Technologies' DE YOUTUBE ***
+
+*** ESTE PROYECTO UTILIZA COMO BASE DE DATOS UN ARCHIVO JSON EL CUAL ES RENDERIZADO POR LA LIBRERÍA 'jason-server' LA CUAL USA LOS ARCHIVOS QUE HAY EN AL CARPETA 'server', PARA INICIARLO HAY QUE EJECUTAR ESTE COMANDO: 'npm start' EN UNA TERMINAL ABIERTA EN ESA CARPETA ***
+
+*** EL PROYECTO PRINCIPAL SE INICIA EJECUTANDO EL COMANDO: 'npm start' DE LOS PROYECTOS DE REACT ***
+
+*** EN EL PROYECTO SE HA IMPLENTADO LA LIBRERÍA 'Sweetalert2', ESTOS SON LOS PASOS PARA USARLA:
+
+   1) Inastalar la librería Sweetalert2 ejecuntado este comando: 
+     
+        'npm install sweetalert2'
+
+   2) El archivo main.js importar el archivo CSS de la librería:
+
+        import 'sweetalert2/dist/sweetalert2.min.css';
+
+   3) En el componente en el cual queramos usar Sweetalert2 importar una referncia del objeto 'Swal':
+
+        import Swal from 'sweetalert2';
+
+   4) Y por último llamar al objeto 'Swal' en donde queramos desde una función:
+
+        showAlert(){
+            Swal.fire({...});
+        }
+*** 
+
+*** PROYECTO FINALIZADO Y FUNCIONA CORRECTAMENTE  ***
